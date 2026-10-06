@@ -14,3 +14,19 @@ For this assignment I went through the NumPy section of the CS231n Python tutori
 - Done in Jupyter in VS Code, not Colab.
 - Python 3 via Anaconda, env ece-5831-2026, NumPy
 - To rerun: open the notebook, select the ece-5831-2026 kernel, Run All. Nothing needs to be installed beyond NumPy.
+
+# A_03 Logic Gates with a Perceptron
+LogicGate class with AND, NAND, OR, NOR and XOR gates, implemented with NumPy.
+
+## Files
+
+- logic_gate.py: the LogicGate class
+- module3.py: test script for the class
+- module3.ipynb: the same tests in a Jupyter notebook
+## How to run
+
+- run python module3.py
+
+## requirments
+
+- NumPy
