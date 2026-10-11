@@ -30,3 +30,20 @@ LogicGate class with AND, NAND, OR, NOR and XOR gates, implemented with NumPy.
 ## requirments
 
 - NumPy
+
+## A_04 Multilayer Perceptron
+
+- MultilayerPerceptron class implemented with NumPy. The network has 3 input neurons, hidden layers with 5, 5 and 2 neurons, and 2 output neurons. Layers 1–3 use sigmoid, and layer 4 uses ReLU.
+
+## Files
+
+- multilayer_perceptron.py: the MultilayerPerceptron class
+- module4.py: test script using example inputs
+- module4.ipynb: forward-propagation results in a Jupyter notebook
+
+## How to run
+
+- run python module4.py
+
+## Requirements
+- NumPy
